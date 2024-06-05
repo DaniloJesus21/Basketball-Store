@@ -197,8 +197,7 @@ footer {
   float: left;
   width: 100%;
   padding: 10px;
-  background: rgb(3, 53, 145);
-  margin-bottom: 32px;
+  background: rgb(3, 53, 145);
 }
 
 .footer-container p {
@@ -292,6 +291,10 @@ footer small {
     width: 100%;
     margin-bottom: 16px;
   }
+
+  h2 {
+    font-size: 26px;
+  }
   
   .catalogo > div {
     display: grid;
@@ -318,7 +321,7 @@ footer small {
   form textarea,
   form button {
     display: block;
-    width: 500px;
+    width: 400px;
     margin-bottom: 8px;
     padding: 8px;
   }
