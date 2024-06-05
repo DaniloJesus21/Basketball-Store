@@ -321,7 +321,7 @@ footer small {
   form textarea,
   form button {
     display: block;
-    width: 400px;
+    width: 300px;
     margin-bottom: 8px;
     padding: 8px;
   }
