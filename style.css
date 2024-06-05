@@ -261,10 +261,6 @@ footer small {
     padding: 8px;
   }
 
-  .menu {
-    display: none;
-  }
-
   .menu > li {
     clear: both;
   }
